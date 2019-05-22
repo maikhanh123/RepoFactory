@@ -1,0 +1,16 @@
+.vs/
+packages/
+People.Service/obj/
+PeopleViewer/bin/
+PeopleViewer/obj/
+People.Service/bin/
+PersonRepository.CSV/bin/
+PersonRepository.CSV/obj/
+PersonRepository.Factory/bin/
+PersonRepository.Factory/obj/
+PersonRepository.Interface/bin/
+PersonRepository.Interface/obj/
+PersonRepository.Service/bin/
+PersonRepository.Service/obj/
+PersonRepository.SQL/bin/
+PersonRepository.SQL/obj/
